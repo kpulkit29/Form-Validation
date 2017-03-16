@@ -1,0 +1,20 @@
+body{
+	background-color: cyan;
+}
+h2{
+	margin-left: 20px;
+}
+
+h1{
+	color:blue;
+}
+.main-form{
+	margin-top:50px;
+	margin-left:200px;
+	margin-right: 200px;
+	background-color: grey;
+	border-radius: 15px;
+}
+.sign{
+	margin-left: 400px;
+}
